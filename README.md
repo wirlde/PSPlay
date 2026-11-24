@@ -1,10 +1,5 @@
 # PXPlay/ PSPlay Application Hosting
 
-Welcome to the repository for PXPlay formerly known as PSPlay, a third-party Remote Play client available for Android, iOS (as MirrorPlay), and now for PCs with Windows, Linux and macOS support. This repository serves as the hosting platform for the PXPlay application.
-
-## Download
-You can download the current version from the [Releases page](https://github.com/streamingdv/PSPlay-Application-Hosting/releases/).
-
 PXPlay is currently supported on Android, iOS, Apple TV, Windows 10/11, Linux x64 PCs and Mac Silicon/ Intel PCs.
 
 ## Key Features
@@ -17,18 +12,6 @@ PXPlay is currently supported on Android, iOS, Apple TV, Windows 10/11, Linux x6
 - **Advanced Decoding and Rendering**: Supports multiple decoder and rendering engines, including zero-copy rendering with image enhancement through Vulkan.
 - **Optimized for Peak Streaming Performance**: Ensures a fast and stable streaming experience through extensive optimization and beta testing.
 
-## Licensing
-A valid license is required to use the full version of the PXPlay PC port and the standalone Android APK. Licenses can be [purchased here](https://streamingdv.com/shop-list-ns.html).
-This is a one-time purchase that grants personal use across multiple devices. A single PC license key works for both Linux and Windows, while other platforms like Android require separate license keys.
-
-## Android Version
-Download the Android version on [Google Play](https://play.google.com/store/apps/details?id=psplay.grill.com). An alternative APK download is also available from the
-latest [GitHub release](https://github.com/streamingdv/PSPlay-Application-Hosting/releases/). Please note that a valid Android APK license is required, which can be purchased [here](https://streamingdv.com/shop-list-ns).
-
-The APK version can be used as a standalone app without any Google Play dependencies, making it easy to install on devices that do not include the Google Play Store, such as Amazon Fire TV, Meta Quest, or Huawei devices.
-
-## iOS / Apple TV
-Download the iOS/Apple TV PXPlay port called formerly known as MirrorPlay from the [App Store](https://apps.apple.com/us/app/mirrorplay-remote-streaming/id1638586503).
 
 ## Open Source Contributions
 The development of PXPlay has been supported by several excellent open-source libraries:
@@ -48,9 +31,5 @@ Parts of the PXPlay PC port, such as the Vulkan rendering pipeline and the gamep
 
 For a launcher or frontend that wants to stream a PlayStation console through PXPlay you can find more information [here.](3rd_party_integration/THIRD_PARTY_LAUNCHER_API.md)
 
-## Contact
-For any inquiries or issues with the application, feel free to reach out to me at [streamingdv@outlook.com](mailto:streamingdv@outlook.com).
-
-Check out my other projects on GitHub or follow the development of PXPlay on [the PXPlay subreddit](https://www.reddit.com/r/PSPlay/).
 
 **Disclaimer:** This project is not endorsed or certified by Sony Interactive Entertainment LLC.
